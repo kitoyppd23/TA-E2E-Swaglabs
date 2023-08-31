@@ -1,4 +1,4 @@
-# Testes automatizados com Cypress - NV Junior
+# Testes automatizados com Cypress - 
 
 👋 Seja bem-vindo(a)!
 
@@ -6,7 +6,7 @@ Se você esta iniciando sua carreira como QA, Tenho certeza que você vai adorar
 
 ## O que você vai ver
 
-Durante os testes automatizados com Cypress (básico), Iremos acompanhar:
+Durante os testes automatizados com Cypress, Iremos acompanhar:
 
 - Cenarios de testes aplicados em automatização - Gherkin
 - Visitar sempre as paginas especificas antes de iniciar o cenario -  [`beforeEach()`](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests#Hooks) e [`cy.visit()`](https://on.cypress.io/visit)
